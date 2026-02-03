@@ -1,1 +1,1 @@
-# VSEC-practical
+# Machine Learning practical
